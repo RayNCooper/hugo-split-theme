@@ -1,7 +1,7 @@
 # Split
 
 ## Preface
-This is my personal flavour of the Split Hugo template. Feel free to fork and use for your own page.
+This is my personal flavour of the Hugo Split theme. Feel free to fork and use for your own page1.
 ## Intro
 Split is a single page, centrally-divided layout for a professional online presense with a big image or video left with alongside content. It is a port of [Split](//onepagelove.com/split) by [One Page Love](//onepagelove.com).
 
