@@ -1,4 +1,16 @@
 <div class="split-intro">
+  {{ if .IsTranslated }}
+          <div>
+            {{ range .Translations }}
+            <a href="{{ .Permalink }}">
+              <span style="color: #cccccc; font-size: 24px">
+                {{ .Language.LanguageName }}
+                {{ .Language.Params.EmojiCode | emojify }}
+              </span>
+            </a>
+            {{ end }}
+          </div>
+        {{ end }}
   {{ with .Title }}<h1>{{ . }}</h1>{{ end }}
   {{ with .Params.tagline }}<span class="tagline">{{ . }}</span>{{ end }}
 </div>
