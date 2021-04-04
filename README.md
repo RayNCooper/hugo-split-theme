@@ -1,5 +1,8 @@
 # Split
 
+## Preface
+This is my personal flavour of the Split Hugo template. Feel free to fork and use for your own page.
+## Intro
 Split is a single page, centrally-divided layout for a professional online presense with a big image or video left with alongside content. It is a port of [Split](//onepagelove.com/split) by [One Page Love](//onepagelove.com).
 
 This Hugo theme features an image or video visual section as well as a content section for your name, tagline, bio, and links.
